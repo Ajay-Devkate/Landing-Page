@@ -173,5 +173,12 @@ font-weight: 300;
         font-size: 50px;
         font-weight: 400;
     }
+  
+  .card {
+        margin-block: 20px;
+    }
+   .work {
+    margin-block: 30px;
+   }
    
 }
